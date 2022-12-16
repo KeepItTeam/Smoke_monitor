@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SWR_v2</string>
+    <string name="names">Курить</string>
+    <string name="generalDataButtonText">Смотреть</string>
+</resources>
